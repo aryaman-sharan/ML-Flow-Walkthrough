@@ -1,0 +1,15 @@
+artifact_uri: mlruns/496572141562031495/93911998b08a48ae818c3d29bfec55f3/artifacts
+end_time: 1669201054127
+entry_point_name: ''
+experiment_id: '496572141562031495'
+lifecycle_stage: active
+run_id: 93911998b08a48ae818c3d29bfec55f3
+run_name: bedecked-moth-823
+run_uuid: 93911998b08a48ae818c3d29bfec55f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669201049019
+status: 3
+tags: []
+user_id: aryaman.sharan
